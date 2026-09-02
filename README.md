@@ -1,8 +1,0 @@
-👋 About Me
-
-
-I'm a B.Sc. Information Technology graduate with a growing passion for turning raw data into meaningful insights that solve real-world problems. I enjoy building projects using Excel, SQL, Python, and Power BI — creating interactive dashboards and continuously sharpening my analytical skills through hands-on practice.
-
-I'm currently strengthening my knowledge of Advanced Power BI (DAX & Power Query), SQL, Python (Pandas), and data storytelling, while building a portfolio of real-world analytics projects — including a BlinkIT Grocery Sales Analysis and an Amazon Sales Analysis, where I used Python, SQL, and Power BI to clean, analyze, and visualize data and uncover business trends. My goal is to gain practical experience, keep learning, and grow into a professional Data Analyst by working on meaningful business problems.
-
-If you're interested in data analytics, business intelligence, dashboard design, Excel, SQL, Python, or Power BI, feel free to connect. I believe every dataset has a story to tell, and I enjoy finding insights that help make better decisions. Outside of analytics, I like documenting my learning journey, creating content, and challenging myself to learn something new every day.
